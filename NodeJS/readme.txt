@@ -1,0 +1,1 @@
+Technology Used: MEAN Stack(MongoDB, Express.js, Angular x.x, & Node.js), Body-Parser, Mongoose, Nodemon, ES6, Materialize, Material Design,
